@@ -1,5 +1,5 @@
 
-# Road pothole detection multinet
+# Road pothole detection multinet : 
 
 This repository contains instruction for the topic which I have selected as part of self case study on Deep learning using one of the state of art architecture multinet (see documentation [here](https://github.com/MarvinTeichmann/MultiNet)) to detect pothole in road.
 
